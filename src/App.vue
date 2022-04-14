@@ -45,10 +45,7 @@
         "
       >
         GITHUB->
-        <a
-          class="text-dark"
-          href="https://github.com/BYUCS260/xkcd-browser-jacobthecanopier"
-        >
+        <a class="text-dark" href="https://github.com/jacobthecanopier/cp3">
           https://github.com/jacobthecanopier/cp3</a
         >
       </div>
